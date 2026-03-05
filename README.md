@@ -14,19 +14,19 @@
 - React
 - Java
 - Python
-
+- Git & GitHub
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tsionawitworkneh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tsionawitworkneh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
 
 ## 💻 Top Languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsionawitworkneh&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)
+![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tsionawitworkneh&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
 
@@ -44,6 +44,3 @@
 
 ---
 
-## 📫 Connect With Me
-
-- GitHub: https://github.com/tsionawitworkneh
