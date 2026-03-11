@@ -14,7 +14,7 @@
 - React
 - Java
 - Python
-- Git & GitHub
+
 
 ---
 
