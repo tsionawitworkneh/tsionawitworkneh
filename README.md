@@ -20,9 +20,6 @@
 
 
 
-
-
-
 ## 🤝 Open To
 
 - Internships  
